@@ -67,11 +67,11 @@ span i {
   box-shadow: -1px 0 1px 0 #bbb;
 }
 
-/*#switch:checked + .switch {
-  background    : #767477;
+#switch:checked+.switch {
+  background: #767477;
 }
 
-#switch:checked + .switch span {
+/*#switch:checked + .switch span {
   left  : 75px;
 }
 
