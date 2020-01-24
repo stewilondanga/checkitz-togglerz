@@ -50,11 +50,11 @@ span {
   background: #767477;
 }
 
-/*.switch1 span {
-  left : 75px;
+.switch1 span {
+  left: 75px;
 }
 
-
+/*
 
 span i {
   display : inline-block;
