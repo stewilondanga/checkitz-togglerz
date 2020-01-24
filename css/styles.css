@@ -79,11 +79,11 @@ span i {
   left: 0;
 }
 
-/*#switch1:checked + .switch1 {
-  background    : #aae042;
+#switch1:checked+.switch1 {
+  background: #aae042;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
