@@ -75,11 +75,11 @@ span i {
   left: 75px;
 }
 
-/*#switch1:checked + .switch span {
-  left  : 0;
+#switch1:checked+.switch span {
+  left: 0;
 }
 
-#switch1:checked + .switch1 {
+/*#switch1:checked + .switch1 {
   background    : #aae042;
 }
 
