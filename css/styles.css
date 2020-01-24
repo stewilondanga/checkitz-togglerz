@@ -71,11 +71,11 @@ span i {
   background: #767477;
 }
 
-/*#switch:checked + .switch span {
-  left  : 75px;
+#switch:checked+.switch span {
+  left: 75px;
 }
 
-#switch1:checked + .switch span {
+/*#switch1:checked + .switch span {
   left  : 0;
 }
 
