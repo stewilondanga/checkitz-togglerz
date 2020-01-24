@@ -54,22 +54,20 @@ span {
   left: 75px;
 }
 
-/*
-
 span i {
-  display : inline-block;
-  width   : 3px;
-  height  : 16px;
-  margin  : 12px auto;
-  border-radius : 2px;
-  margin-left   : 1px;
-  background    : #dedadb;
-  border-top    : 2px solid #eee;
-  border-bottom : 2px solid #aaa;
-  box-shadow    : -1px 0 1px 0 #bbb;
+  display: inline-block;
+  width: 3px;
+  height: 16px;
+  margin: 12px auto;
+  border-radius: 2px;
+  margin-left: 1px;
+  background: #dedadb;
+  border-top: 2px solid #eee;
+  border-bottom: 2px solid #aaa;
+  box-shadow: -1px 0 1px 0 #bbb;
 }
 
-#switch:checked + .switch {
+/*#switch:checked + .switch {
   background    : #767477;
 }
 
