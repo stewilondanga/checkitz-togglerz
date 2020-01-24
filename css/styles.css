@@ -1,3 +1,7 @@
+body {
+  background: #d8d4d5;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,9 +25,6 @@
   height: 1.5em;
 }
 
-body {
-  background : #d8d4d5;
-}
 
 #switch , #switch1 {
   position: absolute;
