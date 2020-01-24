@@ -125,11 +125,11 @@ span i {
   line-height: 200%;
 }
 
-/*.cal th:first-child {
+.cal th:first-child {
   color: #f00;
 }
 
-.cal th:last-child {
+/*.cal th:last-child {
   color: #04d;
 }
 
