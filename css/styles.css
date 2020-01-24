@@ -17,13 +17,12 @@ body {
   height: 1.5em;
 }
 
-/*
-#switch , #switch1 {
+#switch, #switch1 {
   position: absolute;
   left: -9999px;
 }
 
-.switch {
+/*.switch {
   display : block;
   width   : 170px;
   margin  : 50px auto;
